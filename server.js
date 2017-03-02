@@ -31,12 +31,7 @@ var articles = {
                           </p> `
             },
         articleThree: {
-        title: 'Article Three | Tanmai Gopal',
-         heading: 'Article Three',
-        date: '28 Feb 2017',
-        content: ` <p>
-                            This is the article for my third article. This is the article for my third article.
-                          </p> 
+            
         }
 };    
 function createTemplate(data){
